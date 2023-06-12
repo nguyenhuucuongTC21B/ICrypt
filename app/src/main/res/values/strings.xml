@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ICrypt</string>
+    <string name="title_home">Mã hóa</string>
+    <string name="title_dashboard">Giải mã</string>
+    <string name="title_notifications">Thông tin</string>
+    <string name="str_info1"><b>Nguyễn Hữu Cường</b></string>
+    <string name="str_info2">Telegram: <i><u>@Doremon559</u></i></string>
+    <string name="str_info3">Web: <i><u>nhatniem.rf.gd</u></i></string>
+</resources>
